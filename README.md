@@ -140,29 +140,28 @@ python pass_counter_esp32cam.py
 
 # ✋ Features
 
-*Real-time pass counting
-Hand gesture recognition (open palm)
-MediaPipe hand landmark detection
-Stable tracking using cooldown logic
-Live annotated video display
-Lightweight ESP32 + Python architecture
+* Real-time pass counting
+* Hand gesture recognition (open palm)
+* MediaPipe hand landmark detection
+* Stable tracking using cooldown logic
+* Live annotated video display
+* Lightweight ESP32 + Python architecture
 
 ---
 
-
----
 
 # ✋ Testing
 
-Power on the ESP32-CAM
-Run the Python script
-Perform the following actions:
-Move your hand:
-Above → Below the line → Pass counter increases
-Show an open palm:
-Gesture counter increases
-Press ESC to exit the application
+* Power on the ESP32-CAM
+* Run the Python script
+* Perform the following actions:
+* Move your hand:
+* Above → Below the line → Pass counter increases
+* Show an open palm:
+* Gesture counter increases
+* Press ESC to exit the application
 
 ---
+<img width="961" height="772" alt="Screenshot 2025-11-27 233149" src="https://github.com/user-attachments/assets/690b5ce9-bcf9-40c8-9655-3cf39d29f37f" />
 
 
