@@ -25,10 +25,11 @@ This system performs two main tasks:
 ---
 
 ## 📁 Project Structure
+```text 
 ├── esp32_cam_basic.ino # ESP32-CAM firmware (image capture server)
 ├── pass_counter_esp32cam.py # Python script (pass + gesture detection)
 └── README.md # Documentation
-
+```
 ---
 
 ## ⚙️ System Architecture
